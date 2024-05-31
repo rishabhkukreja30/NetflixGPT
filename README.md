@@ -25,6 +25,11 @@
 - Created MoviesSlice
 - Fteched data for trailer video and add to store
 - Embedded the youtube video and make it autoplay and mute
+- Secondary Container
+- Build Movie List
+- Build Movie Card
+- TMDB image CDN URL
+- Custom hooks for All Movie Lists
 
 # Features
 
