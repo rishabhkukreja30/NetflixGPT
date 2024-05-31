@@ -21,6 +21,10 @@
 - Register for TMDB API
 - Get Data from NowPlayingMovies API
 - Add Movies to redux store
+- Custom Hook for nowPlayingMovies
+- Created MoviesSlice
+- Fteched data for trailer video and add to store
+- Embedded the youtube video and make it autoplay and mute
 
 # Features
 
