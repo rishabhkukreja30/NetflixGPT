@@ -32,8 +32,12 @@
 - Custom hooks for All Movie Lists
 - GPT Search Page
 - GPT Search Bar
-  = Multi language Feature
+- Multi language Feature
 - Integrate GPT API's
+- GPT Search Api Call
+- Fteched gpyMovieSuggestions from TMDB
+- Memoization of apis
+- Responsiveness for mobile screens
 
 # Features
 
