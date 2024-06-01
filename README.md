@@ -30,6 +30,10 @@
 - Build Movie Card
 - TMDB image CDN URL
 - Custom hooks for All Movie Lists
+- GPT Search Page
+- GPT Search Bar
+  = Multi language Feature
+- Integrate GPT API's
 
 # Features
 

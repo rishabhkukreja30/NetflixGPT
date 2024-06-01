@@ -6,7 +6,7 @@ const SecondaryContainer = () => {
   const movies = useSelector((state) => state.movies);
   return (
     movies.nowPlayingMovies && (
-      <div className="bg-black">
+      <div className="bg-black py-5">
         <div className="-mt-52 relative pl-12 z-20">
           <MovieList title={"Now Playing"} movies={movies.nowPlayingMovies} />
           <MovieList title={"Top Rated"} movies={movies.topRatedMovies} />
